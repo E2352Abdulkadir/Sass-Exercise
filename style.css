@@ -1,0 +1,25 @@
+.main-block {
+  background: yellow;
+}
+
+.main-block p {
+  color: green;
+  font-size: 2rem;
+  margin: 24px;
+  font-size: 1rem;
+}
+
+.main-block div {
+  background: cyan;
+}
+
+.main-block div p {
+  color: blue;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+  margin: 1rem;
+}
+/*# sourceMappingURL=style.css.map */
